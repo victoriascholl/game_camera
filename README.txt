@@ -26,3 +26,4 @@ Steps to use prototype:
     are turned off. The system then continues gathering, averaging, and comparing 
     temperature readings 
 9. Press CRTL+C at any time to exit program
+# game_camera
